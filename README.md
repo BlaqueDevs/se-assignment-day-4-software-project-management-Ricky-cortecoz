@@ -6,11 +6,13 @@ Timely delivery is crucial as delays can lead to increased costs, missed market 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Cost control ensures that the project remains within budget, preventing financial strain. Strategies to prevent budget overruns include thorough initial cost estimation, regular financial tracking, prioritization of features, avoiding scope creep, and having contingency reserves for unexpected expenses.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-
+Agile: Flexible, iterative approach with continuous feedback; suits dynamic projects but may lack predictability.
+Waterfall: Linear and structured, suitable for well-defined projects; provides clarity but is less adaptable to changes
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile is ideal for projects requiring frequent changes, such as app development or startups adapting to user feedback.
+Waterfall is best for projects with fixed requirements, like government contracts or large-scale enterprise software.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 Ensuring software quality reduces bugs, improves user experience, and minimizes maintenance costs.
-
 Quality assurance methods:
 Automated Testing: Uses tools like Selenium and JUnit to detect errors early.
 Unit Testing: Verifies individual components before integration.
